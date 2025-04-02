@@ -81,31 +81,41 @@ Additionally, fraud detection algorithms could be optimized by focusing on regio
 
 # 10. Limitations
 
-## Data Limitations: The dataset lacks income and family structure details, limiting deeper spending insights. 
+## Data Limitations:
+
+The dataset lacks income and family structure details, limiting deeper spending insights. 
 
 
 Additionally, the data might not fully account for seasonal variations or external factors influencing spending patterns.
 
 
-## Geographic Limitations: The analysis is based on transactions from various states, but the dataset may not fully represent global spending habits. 
+## Geographic Limitations: 
+
+The analysis is based on transactions from various states, but the dataset may not fully represent global spending habits. 
 
 
 Fraud patterns could vary greatly in different countries, and additional geographic data would improve the accuracy of fraud detection trends.
 
 
-## Timeframe Constraints: The analysis was conducted on data from a specific time frame 1st Jan 2019 - 31st Dec 2020 which may not capture long-term trends
+## Timeframe Constraints:
+
+The analysis was conducted on data from a specific time frame 1st Jan 2019 - 31st Dec 2020 which may not capture long-term trends
 
 
 or account for recent shifts in consumer behavior due to external factors like economic changes or the COVID-19 pandemic.
 
 
-## Modeling Limitations: The analysis did not incorporate advanced machine learning techniques to predict future spending behaviors or fraud. 
+## Modeling Limitations: 
+
+The analysis did not incorporate advanced machine learning techniques to predict future spending behaviors or fraud. 
 
 
 The current findings are based on historical transaction data, which may not fully represent future trends.
 
 
-## Subjectivity: The analysis is based on observed trends and may carry inherent biases due to my interpretations of gender roles and spending habits. 
+## Subjectivity:
+
+The analysis is based on observed trends and may carry inherent biases due to my interpretations of gender roles and spending habits. 
 
 
 Future research could focus on refining these interpretations and testing them with larger, more diverse datasets.
