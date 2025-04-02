@@ -24,7 +24,7 @@ Age, high transaction flag and Transaction Type fields were engineered in SQL.
 
 # 5.Methodology
 
-## Analysis Technique
+## Analysis Techniques
 I employed SQL queries for data extraction, followed by data exploration using Tableau to create visualizations. 
 
 Various filters were applied to identify spending trends by gender, age, and transaction type. I also analyzed fraud patterns based on transaction amounts and frequency.
