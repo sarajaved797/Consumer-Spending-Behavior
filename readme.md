@@ -95,6 +95,13 @@ The current findings are based on historical transaction data, which may not ful
 ## Subjectivity: The analysis is based on observed trends and may carry inherent biases due to my interpretations of gender roles and spending habits. 
 
 Future research could focus on refining these interpretations and testing them with larger, more diverse datasets.
+
+# 11 Acknowledgments
+
+- I would like to thank OpenAI's GPT for assisting with brainstorming and clarifying concepts throughout this project.
+- The dataset used in this analysis is created by Brandon Harris, and can be accessed at https://github.com/namebrandon/Sparkov_Data_Generation
+- Special thanks to Kaggle for making this valuable resource available.
+
 ________________________________________
 
 
