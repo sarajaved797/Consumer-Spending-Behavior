@@ -48,7 +48,9 @@ Women between the ages of 20-40 show a significant spike in spending compared to
 
 ## Finding 3: Fraud Detection Trends
 
-Fraudulent transactions occur more frequently on weekends, especially in smaller cities. Women are more likely to have fraudulent transactions associated with larger amounts.
+Fraudulent transactions occur more frequently on weekends, especially in smaller cities. 
+
+Women are more likely to have fraudulent transactions associated with larger amounts.
 [View Interactive Tableau Dashboard](Dashboard link coming soon)
 
 # 7. Hypotheses and Business Implications
