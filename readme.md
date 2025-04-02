@@ -121,7 +121,7 @@ The analysis is based on observed trends and may carry inherent biases due to my
 Future research could focus on refining these interpretations and testing them with larger, more diverse datasets.
 
 
-# 11 Acknowledgments
+# 11. Acknowledgments
 
  I would like to thank OpenAI's GPT for assisting with brainstorming and clarifying concepts throughout this project.
 
