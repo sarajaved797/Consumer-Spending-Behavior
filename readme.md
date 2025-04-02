@@ -25,6 +25,7 @@ Age, high transaction flag and Transaction Type fields were engineered in SQL.
 # 5.Methodology
 
 ## Analysis Techniques
+
 I employed SQL queries for data extraction, followed by data exploration using Tableau to create visualizations. 
 
 Various filters were applied to identify spending trends by gender, age, and transaction type. I also analyzed fraud patterns based on transaction amounts and frequency.
@@ -33,12 +34,16 @@ Various filters were applied to identify spending trends by gender, age, and tra
 
 ## Finding 1: Gender Differences in Spending
 
-Women generally spend more than men, particularly on groceries and household-related items. Women’s total spending often exceeds men’s, especially in the food and healthcare categories.
+Women generally spend more than men, particularly on groceries and household-related items.
+
+Women’s total spending often exceeds men’s, especially in the food and healthcare categories.
+
 [View Interactive Tableau Dashboard](Dashboard link coming soon)
 
 ## Finding 2: Age and Spending Trends
 
 Women between the ages of 20-40 show a significant spike in spending compared to men, who maintain a more consistent spending pattern across all age groups.
+
 [View Interactive Tableau Dashboard](Dashboard link coming soon)
 
 ## Finding 3: Fraud Detection Trends
@@ -99,7 +104,9 @@ Future research could focus on refining these interpretations and testing them w
 # 11 Acknowledgments
 
 - I would like to thank OpenAI's GPT for assisting with brainstorming and clarifying concepts throughout this project.
+
 - The dataset used in this analysis is created by Brandon Harris, and can be accessed at https://github.com/namebrandon/Sparkov_Data_Generation
+
 - Special thanks to Kaggle for making this valuable resource available.
 
 ________________________________________
