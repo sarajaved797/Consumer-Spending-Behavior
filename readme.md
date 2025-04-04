@@ -131,39 +131,19 @@ Future research could focus on refining these interpretations and testing them w
 
  Special thanks to Kaggle for making this valuable resource available.
 
-## 📊 Tableau Dashboards
 
-Explore all dashboards:  
-🔗 [Tableau Public Profile](https://public.tableau.com/app/profile/sara.javed7099/vizzes)
+## 📊 Tableau Dashboard Project
 
-### Featured Visualizations
+This project explores consumer spending behavior by gender, age, category, and geography using SQL and Tableau.
 
-- 💳 **Gender Differences in Spending**  
-  🔗 [View Dashboard](https://public.tableau.com/views/GenderDifferencesinSpending_17122637947470/Dashboard1)
+🔗 **View all visualizations on my Tableau Public profile**:  
+[https://public.tableau.com/app/profile/sara.javed7099/vizzes](https://public.tableau.com/app/profile/sara.javed7099/vizzes)
 
-- 🛍️ **Top Spending Categories by Gender**  
-  🔗 [View Dashboard](https://public.tableau.com/views/CommonSpendingCategories/GenderCategory)
-
-- 🌎 **Top 5 States by Total Spending**  
-  🔗 [View Dashboard](https://public.tableau.com/views/Top5SpendingStates/GenderStates)
-
-- 📈 **Median Spending by Age and Gender**  
-  🔗 [View Dashboard](https://public.tableau.com/views/AgevsMedianSpending/GenderAge)
-
-- 🗓️ **Weekly Spending Patterns**  
-  🔗 [View Dashboard](https://public.tableau.com/views/WeeklySpendingPatterns/GenderWeekly)
-
-- 🧾 **Preferred Payment Method by Age**  
-  🔗 [View Dashboard](https://public.tableau.com/views/PaymentMethodbyAge/GenderPOS)
-
-- 💸 **High Value Transactions by State**  
-  🔗 [View Dashboard](https://public.tableau.com/views/HighValueTransactionsbyState/HighValueStates)
-
-________________________________________
-
-
-
-
+Key insights include:
+- Women consistently outspend men across categories and regions.
+- Grocery is the top spending category for both genders.
+- Age 50+ sees a shift toward online shopping.
+- High-value transactions ($1000+) are concentrated in TX, PA, and DC.
 
 
 
