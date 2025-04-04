@@ -131,6 +131,34 @@ Future research could focus on refining these interpretations and testing them w
 
  Special thanks to Kaggle for making this valuable resource available.
 
+## 📊 Tableau Dashboards
+
+Explore all dashboards:  
+🔗 [Tableau Public Profile](https://public.tableau.com/app/profile/sara.javed7099/vizzes)
+
+### Featured Visualizations
+
+- 💳 **Gender Differences in Spending**  
+  🔗 [View Dashboard](https://public.tableau.com/views/GenderDifferencesinSpending_17122637947470/Dashboard1)
+
+- 🛍️ **Top Spending Categories by Gender**  
+  🔗 [View Dashboard](https://public.tableau.com/views/CommonSpendingCategories/GenderCategory)
+
+- 🌎 **Top 5 States by Total Spending**  
+  🔗 [View Dashboard](https://public.tableau.com/views/Top5SpendingStates/GenderStates)
+
+- 📈 **Median Spending by Age and Gender**  
+  🔗 [View Dashboard](https://public.tableau.com/views/AgevsMedianSpending/GenderAge)
+
+- 🗓️ **Weekly Spending Patterns**  
+  🔗 [View Dashboard](https://public.tableau.com/views/WeeklySpendingPatterns/GenderWeekly)
+
+- 🧾 **Preferred Payment Method by Age**  
+  🔗 [View Dashboard](https://public.tableau.com/views/PaymentMethodbyAge/GenderPOS)
+
+- 💸 **High Value Transactions by State**  
+  🔗 [View Dashboard](https://public.tableau.com/views/HighValueTransactionsbyState/HighValueStates)
+
 ________________________________________
 
 
