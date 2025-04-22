@@ -38,7 +38,6 @@ Women generally spend more than men, particularly on groceries and household-rel
 
 Women’s total spending often exceeds men’s, especially in the food and healthcare categories.
 
-[View Interactive Tableau Dashboard](Dashboard link coming soon)
 
 ## Finding 2: Age and Spending Trends
 
